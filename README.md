@@ -1,7 +1,7 @@
 # Merge-vectors-on-center
 Blender script (in python) to sort vector indices along a chain of vertices, and merging vectors with their opposite vector on their center point.
+Below are the steps taken by the script.
 
-Steps taken by the script:
 ## Joins by distance
   All superinposed vertices in the current objec are joined to
   make one continously linked chain of vertices.
