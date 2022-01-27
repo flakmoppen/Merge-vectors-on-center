@@ -19,8 +19,8 @@ Steps taken by the script:
   The now superimposed vertex pairs are welded to clean up the
   chain of vertices.
 
->   ┌- -─────-───--─-┐
->   .                |
->   ├-─      END   -─¦
->   │                ¦
->   └-───--─-─- -────┘
+```   ┌- -─────-───--─-┐
+   .                |
+   ├-─      END   -─¦
+   │                ¦
+   └-───--─-─- -────┘```
